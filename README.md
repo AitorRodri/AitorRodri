@@ -1,1 +1,1 @@
-I’m Aitor, passionate about cybersecurity and ethical hacking. With a background and certification in this field, I focus on exploring and strengthening computer security from various angles, including offensive (Red Team) and defensive (Blue Team) approaches.
+Soy Aitor, apasionado por la ciberseguridad y el hacking ético. Con formación y certificación en este ámbito, me enfoco en explorar y fortalecer la seguridad informática desde diversas perspectivas, incluyendo enfoques ofensivos (Red Team) y defensivos (Blue Team).
