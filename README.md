@@ -24,9 +24,9 @@ Me dedico por completo al aprendizaje continuo en ciberseguridad. Cada día es u
 
 ### Bases de Datos y Cloud Hosting
 - ![MySQL](https://img.shields.io/badge/-MySQL-lightblue)
-- ![Azure](https://img.shields.io/badge/-Azure-darkblue)
+- ![Azure](https://img.shields.io/badge/-Azure-blue)
 - ![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-blue)
-- ![Active Directory](https://img.shields.io/badge/-Active%20Directory-blue)
+- ![Active Directory](https://img.shields.io/badge/-Active%20Directory-darkblue)
 
 ## Experiencia en Ayesa
 
