@@ -8,7 +8,7 @@
 
 ## Experiencia y Proyectos
 - 💼 **Ayesa**: Cuento con un año de experiencia como técnico, especializado en Azure y Active Directory.
-- 🛠 He desarrollado procedimientos y guias sobre herramientas necesarias para ayudar a todo el que quiera adentrarse en el mundo de la ciberseguridad.
+- 🛠 He creado procedimientos y guías detalladas sobre herramientas esenciales para apoyar a quienes deseen iniciarse en el mundo de la ciberseguridad.
 
 ## Filosofía
 Me dedico por completo al aprendizaje continuo en ciberseguridad. Cada día es una nueva oportunidad para expandir mis habilidades, enfrentar nuevos desafíos y contribuir al crecimiento de la comunidad de hacking ético.
