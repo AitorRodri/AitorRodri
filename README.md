@@ -1,3 +1,3 @@
 # About Me
 
-Hello! I’m Adrián, passionate about cybersecurity and ethical hacking. With a background in cybersecurity and certified in this area, my focus is on exploring and strengthening computer security from multiple perspectives: Red Team and Blue Team.
+Hola! Soy Aitor, apasionado por la ciberseguridad y el hacking ético. Con formación y certificación en este ámbito, me enfoco en explorar y fortalecer la seguridad informática desde diversas perspectivas, incluyendo enfoques ofensivos (Red Team) y defensivos (Blue Team).
