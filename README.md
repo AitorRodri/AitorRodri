@@ -28,7 +28,7 @@ Me dedico por completo al aprendizaje continuo en ciberseguridad. Cada día es u
 - ![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-blue)
 - ![Active Directory](https://img.shields.io/badge/-Active%20Directory-darkblue)
 
-## Experiencia en Ayesa
+## Experiencia en Cloud
 
 **Azure Active Directory / Intune:**
 - Gestión de Dispositivos: Registro, políticas de seguridad, inventario, acceso condicional y MFA.
