@@ -9,7 +9,7 @@
 ## Experiencia y Proyectos
 - 💻 Cuento con un año de experiencia como técnico en Ibermática, especializado en Azure y Active Directory.
 - 🛠 He desarrollado procedimientos y guias sobre herramientas necesarias para ayudar a todo el que quiera adentrarse en el mundo de la ciberseguridad.
-- 💼 **Ibermática**: Cuento con un año de experiencia como técnico, especializado en Azure y Active Directory.
+- 💼 **Ayesa**: Cuento con un año de experiencia como técnico, especializado en Azure y Active Directory.
 
 ## Filosofía
 Me dedico por completo al aprendizaje continuo en ciberseguridad. Cada día es una nueva oportunidad para expandir mis habilidades, enfrentar nuevos desafíos y contribuir al crecimiento de la comunidad de hacking ético.
@@ -29,7 +29,7 @@ Me dedico por completo al aprendizaje continuo en ciberseguridad. Cada día es u
 - ![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-blue)
 - ![Active Directory](https://img.shields.io/badge/-Active%20Directory-blue)
 
-## Experiencia en el Antiguo Trabajo
+## Experiencia en Ayesa
 
 **Azure Active Directory / Intune:**
 - Gestión de Dispositivos: Registro, políticas de seguridad, inventario, acceso condicional y MFA.
