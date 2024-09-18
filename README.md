@@ -10,25 +10,18 @@
 - 💼 **Ayesa**: Cuento con un año de experiencia como técnico, especializado en Azure y Active Directory.
 - 🛠 He creado procedimientos y guías detalladas sobre herramientas esenciales para apoyar a quienes deseen iniciarse en el mundo de la ciberseguridad.
 
-## Filosofía
-Me dedico por completo al aprendizaje continuo en ciberseguridad. Cada día es una nueva oportunidad para expandir mis habilidades, enfrentar nuevos desafíos y contribuir al crecimiento de la comunidad de hacking ético.
+### 🕵️‍♂️ Experiencia en Pentesting:
 
-## Contacto
-- 📧 Email: [aitorrodricsj@gmail.com](mailto:aitorrodricsj@gmail.com)
+**Certificación:**
+- EJPT (eLearnSecurity Junior Penetration Tester).
 
-## Habilidades
+**Experiencia Práctica:**
+- He resuelto más de 150 máquinas en plataformas como TryHackMe, DockerLabs, HackMyVM, VulNyx, VulnHub y HackersLab.
 
-### Desarrollo Frontend
-- ![HTML5](https://img.shields.io/badge/-HTML5-red)
-- ![CSS](https://img.shields.io/badge/-CSS-blue)
+**Herramientas y procedimientos de pentesting:**
+- Mis repositorios de GitHub contienen las herramientas y procedimientos que he estado utilizando durante mi aprendizaje
 
-### Bases de Datos y Cloud Hosting
-- ![MySQL](https://img.shields.io/badge/-MySQL-lightblue)
-- ![Azure](https://img.shields.io/badge/-Azure-blue)
-- ![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-blue)
-- ![Active Directory](https://img.shields.io/badge/-Active%20Directory-darkblue)
-
-## Experiencia en Cloud
+## ☁️ Experiencia en Cloud
 
 **Azure Active Directory / Intune:**
 - Gestión de Dispositivos: Registro, políticas de seguridad, inventario, acceso condicional y MFA.
@@ -47,3 +40,22 @@ Me dedico por completo al aprendizaje continuo en ciberseguridad. Cada día es u
 
 **Jira y Remedy:**
 - Gestión de incidencias, solución de problemas y redacción de informes de servicio.
+
+## Habilidades
+
+### Desarrollo Frontend
+- ![HTML5](https://img.shields.io/badge/-HTML5-red)
+- ![CSS](https://img.shields.io/badge/-CSS-blue)
+
+### Bases de Datos y Cloud Hosting
+- ![MySQL](https://img.shields.io/badge/-MySQL-lightblue)
+- ![Azure](https://img.shields.io/badge/-Azure-blue)
+- ![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-blue)
+- ![Active Directory](https://img.shields.io/badge/-Active%20Directory-darkblue)
+
+## Filosofía
+Me dedico por completo al aprendizaje continuo en ciberseguridad. Cada día es una nueva oportunidad para expandir mis habilidades, enfrentar nuevos desafíos y contribuir al crecimiento de la comunidad de hacking ético.
+
+## Contacto
+- 📧 Email: [aitorrodricsj@gmail.com](mailto:aitorrodricsj@gmail.com)
+
