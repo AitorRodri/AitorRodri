@@ -13,7 +13,8 @@
 ### 🕵️‍♂️ Experiencia en Pentesting:
 
 **Certificación:**
-- EJPT (eLearnSecurity Junior Penetration Tester).
+- eJPTv2 (eLearnSecurity Junior Penetration Tester).
+- eCPPTv3 (eLearnSecurity Certified Professional Penetration Tester).
 
 **Experiencia Práctica:**
 - He resuelto más de 150 máquinas en plataformas como TryHackMe, DockerLabs, HackMyVM, VulNyx, VulnHub y HackersLab.
