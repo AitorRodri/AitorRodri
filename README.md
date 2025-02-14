@@ -7,6 +7,7 @@
 - 🛡 Certificado en eJPT (eLearnSecurity Junior Penetration Tester).
 
 ## Experiencia y Proyectos
+- 👨‍💻 **Semantic Systems**: Puesto actual, especializado en Azure, Active Directory y Proyectos de Ciberseguridad
 - 💼 **Ayesa**: Cuento con un año de experiencia como técnico, especializado en Azure y Active Directory.
 - 🛠 He creado procedimientos y guías detalladas sobre herramientas esenciales para apoyar a quienes deseen iniciarse en el mundo de la ciberseguridad.
 
